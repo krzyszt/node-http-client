@@ -1,0 +1,22 @@
+{
+  "name": "node-http-client",
+  "version": "0.0.1",
+  "description": "A simple  HTTP (twitter) client",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/krzyszt/node-http-client.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/krzyszt/node-http-client/issues"
+  },
+  "homepage": "https://github.com/krzyszt/node-http-client",
+  "dependencies": {
+    "superagent": "^0.20.0"
+  }
+}
